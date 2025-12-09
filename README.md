@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pegasus Checker — Forensic Helper
+---
+
 # Pegasus Checker
 
 One-click helper to collect forensic artifacts from iOS/Android devices and run Mobile Verification Toolkit (MVT) checks.
