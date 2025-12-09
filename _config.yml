@@ -1,0 +1,8 @@
+title: Pegasus Checker
+description: One-click forensic tool for iOS and Android devices
+theme: minima  # простой, но красивый дефолтный
+baseurl: ""  # для GitHub Pages
+url: "https://trytonottry.github.io/pegasus-checker"
+
+# Кастомизация
+show_excerpts: true
