@@ -14,9 +14,6 @@ title: Pegasus Checker — Forensic Helper
 <!-- GitHub Pages -->
 ![GitHub Pages](https://img.shields.io/website?url=https://Trytonottry.github.io/pegasus-checker)
 
-<!-- Python версии -->
-![Python Versions](https://img.shields.io/pypi/pyversions/pegasus-checker)
-
 <!-- Последний коммит -->
 ![Last Commit](https://img.shields.io/github/last-commit/Trytonottry/pegasus-checker)
 
