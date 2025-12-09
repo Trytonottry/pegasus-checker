@@ -1,7 +1,3 @@
----
-layout: default
-title: Pegasus Checker — Forensic Helper
----
 
 # Pegasus Checker
 
