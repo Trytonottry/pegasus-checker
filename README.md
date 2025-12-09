@@ -7,13 +7,10 @@ title: Pegasus Checker — Forensic Helper
 
 <!-- Статус сборки GitHub Actions -->
 ![Build](https://github.com/Trytonottry/pegasus-checker/workflows/CI/badge.svg)
-
 <!-- Лицензия -->
 ![License](https://img.shields.io/github/license/Trytonottry/pegasus-checker)
-
 <!-- GitHub Pages -->
 ![GitHub Pages](https://img.shields.io/website?url=https://Trytonottry.github.io/pegasus-checker)
-
 <!-- Последний коммит -->
 ![Last Commit](https://img.shields.io/github/last-commit/Trytonottry/pegasus-checker)
 
