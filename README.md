@@ -5,6 +5,25 @@ title: Pegasus Checker — Forensic Helper
 
 # Pegasus Checker
 
+<!-- Статус сборки GitHub Actions -->
+![Build](https://github.com/Trytonottry/REPO/workflows/CI/badge.svg)
+
+<!-- Последний релиз -->
+![Release](https://img.shields.io/github/v/release/Trytonotry/pegasus-checker?label=latest%20release)
+
+<!-- Лицензия -->
+![License](https://img.shields.io/github/license/Trytonottry/pegasus-checker)
+
+<!-- GitHub Pages -->
+![GitHub Pages](https://img.shields.io/website?url=https://Trytonottry.github.io/pegasus-checker)
+
+<!-- Python версии -->
+![Python Versions](https://img.shields.io/pypi/pyversions/pegasus-checker)
+
+<!-- Последний коммит -->
+![Last Commit](https://img.shields.io/github/last-commit/Trytonottry/pegasus-checker)
+
+
 One-click helper to collect forensic artifacts from iOS/Android devices and run Mobile Verification Toolkit (MVT) checks.
 
 ## Что делает
