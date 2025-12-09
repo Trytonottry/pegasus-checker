@@ -1,8 +1,6 @@
 
 # Pegasus Checker
 
-<!-- Статус сборки GitHub Actions -->
-![Build](https://github.com/Trytonottry/pegasus-checker/workflows/CI/badge.svg)
 <!-- Лицензия -->
 ![License](https://img.shields.io/github/license/Trytonottry/pegasus-checker)
 <!-- GitHub Pages -->
